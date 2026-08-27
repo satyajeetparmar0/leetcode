@@ -1,6 +1,6 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        // 1-Approach
+        // 1st-Approach
         // Arrays.sort(nums);
         // for(int i = 0; i < nums.length-1; i++){
         //     if(nums[i]==nums[i+1]){
@@ -9,7 +9,7 @@ class Solution {
         // }
         // return false;
 
-        // 2-Approach
+        // 2nd-Approach
         
         Set<Integer> set = new HashSet<>();
         for(int num : nums){
