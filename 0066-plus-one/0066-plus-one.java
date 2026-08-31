@@ -5,12 +5,12 @@ class Solution {
                 digits[i] = 0;
             } else {
                 digits[i] += 1;
-                return digits;;
+                return digits;
             }
         }
 
         int[] res = new int[digits.length+1];
-        res[0] = 1;
+        res[0] = 11;
         return res;
     }
 }
