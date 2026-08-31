@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/satyajeetparmar0/leetcode/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satyajeetparmar0/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/satyajeetparmar0/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/satyajeetparmar0/leetcode/tree/master/0189-rotate-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/satyajeetparmar0/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/satyajeetparmar0/leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
