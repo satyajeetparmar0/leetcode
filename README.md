@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/satyajeetparmar0/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/satyajeetparmar0/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyajeetparmar0/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0860-lemonade-change](https://github.com/satyajeetparmar0/leetcode/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satyajeetparmar0/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0860-lemonade-change](https://github.com/satyajeetparmar0/leetcode/tree/master/0860-lemonade-change) |
 ## Math
 |  |
 | ------- |
