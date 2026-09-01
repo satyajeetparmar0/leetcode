@@ -10,10 +10,8 @@ class Solution {
                 res++;
                 i++;
                 j++;
-            } else if(s[j]<=g[i]){
-                j++;
             } else {
-                i++;
+                j++;
             }
         }
         return res;
