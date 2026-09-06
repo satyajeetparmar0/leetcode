@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/satyajeetparmar0/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/satyajeetparmar0/leetcode/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/satyajeetparmar0/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyajeetparmar0/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satyajeetparmar0/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/satyajeetparmar0/leetcode/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/satyajeetparmar0/leetcode/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
