@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyajeetparmar0/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satyajeetparmar0/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/satyajeetparmar0/leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/satyajeetparmar0/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/satyajeetparmar0/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/satyajeetparmar0/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/satyajeetparmar0/leetcode/tree/master/0217-contains-duplicate) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/satyajeetparmar0/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyajeetparmar0/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satyajeetparmar0/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/satyajeetparmar0/leetcode/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
 | ------- |
