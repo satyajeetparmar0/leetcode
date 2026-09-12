@@ -95,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/satyajeetparmar0/leetcode/tree/master/0115-distinct-subsequences) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/satyajeetparmar0/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
