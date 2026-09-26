@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/satyajeetparmar0/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/satyajeetparmar0/leetcode/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/satyajeetparmar0/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/satyajeetparmar0/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/satyajeetparmar0/leetcode/tree/master/0066-plus-one) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/satyajeetparmar0/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/satyajeetparmar0/leetcode/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/satyajeetparmar0/leetcode/tree/master/0115-distinct-subsequences) |
 ## Database
 |  |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/satyajeetparmar0/leetcode/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/satyajeetparmar0/leetcode/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/satyajeetparmar0/leetcode/tree/master/0584-find-customer-referee) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/satyajeetparmar0/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
