@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/satyajeetparmar0/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/satyajeetparmar0/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/satyajeetparmar0/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/satyajeetparmar0/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/satyajeetparmar0/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/satyajeetparmar0/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/satyajeetparmar0/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/satyajeetparmar0/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satyajeetparmar0/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/satyajeetparmar0/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/satyajeetparmar0/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/satyajeetparmar0/leetcode/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/satyajeetparmar0/leetcode/tree/master/0115-distinct-subsequences) |
