@@ -5,6 +5,10 @@ class Solution {
             windowScore += cardPoints[i];
         }
 
+        if(k==cardPoints.length){
+            return windowScore;
+        }
+
         int maxScore = windowScore;
 
         for(int i = 1; i <= k; i++){
