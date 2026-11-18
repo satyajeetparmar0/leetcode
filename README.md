@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/satyajeetparmar0/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/satyajeetparmar0/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/satyajeetparmar0/leetcode/tree/master/0860-lemonade-change) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/satyajeetparmar0/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satyajeetparmar0/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3903-smallest-stable-index-i](https://github.com/satyajeetparmar0/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/satyajeetparmar0/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/satyajeetparmar0/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyajeetparmar0/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/satyajeetparmar0/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Quicksort
 |  |
 | ------- |
