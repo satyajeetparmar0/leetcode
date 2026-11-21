@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/satyajeetparmar0/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/satyajeetparmar0/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/satyajeetparmar0/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/satyajeetparmar0/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/satyajeetparmar0/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyajeetparmar0/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satyajeetparmar0/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/satyajeetparmar0/leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/satyajeetparmar0/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/satyajeetparmar0/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyajeetparmar0/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/satyajeetparmar0/leetcode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/satyajeetparmar0/leetcode/tree/master/0455-assign-cookies) |
 ## Sliding Window
 |  |
