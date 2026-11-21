@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/satyajeetparmar0/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/satyajeetparmar0/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/satyajeetparmar0/leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/satyajeetparmar0/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyajeetparmar0/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satyajeetparmar0/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/satyajeetparmar0/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/satyajeetparmar0/leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/satyajeetparmar0/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/satyajeetparmar0/leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/satyajeetparmar0/leetcode/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/satyajeetparmar0/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
