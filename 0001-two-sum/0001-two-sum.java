@@ -1,6 +1,6 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        if(nums==null || nums.length<2){
+        if(nums==null || nums.length==0){
             return new int[]{};
         }
 
@@ -10,11 +10,10 @@ class Solution {
             int complement = target - nums[i];
 
             if(map.containsKey(complement)){
-                return new int[] {map.get(complement), i};
+                return new int[]{map.get(complement), i};
             }
-
             map.put(nums[i], i);
         }
-        return new int[] {};
+        return new int[]{};
     }
 }
