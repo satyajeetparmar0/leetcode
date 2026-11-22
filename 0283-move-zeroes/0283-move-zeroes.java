@@ -4,11 +4,14 @@ class Solution {
 
         for(int i = 0; i < nums.length; i++){
             if(nums[i]!=0){
-                int temp = nums[move];
                 nums[move] = nums[i];
-                nums[i] = temp;
                 move++;
             }
+        }
+
+        while(move<nums.length){
+            nums[move] = 0;
+            move++;
         }
     }
 }
