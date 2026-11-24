@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/satyajeetparmar0/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/satyajeetparmar0/leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/satyajeetparmar0/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/satyajeetparmar0/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/satyajeetparmar0/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/satyajeetparmar0/leetcode/tree/master/0055-jump-game) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/satyajeetparmar0/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/satyajeetparmar0/leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyajeetparmar0/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/satyajeetparmar0/leetcode/tree/master/0189-rotate-array) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/satyajeetparmar0/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/satyajeetparmar0/leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/satyajeetparmar0/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/satyajeetparmar0/leetcode/tree/master/0349-intersection-of-two-arrays) |
